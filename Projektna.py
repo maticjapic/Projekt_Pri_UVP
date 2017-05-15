@@ -1,1 +1,1 @@
-#začetek 16.5.
+#začetek 16.5 ali 17.
